@@ -6,7 +6,7 @@ console.log("this  branch")
 console.log("commiting in master")
 console.log("hello my name is sai and trying to understand git")
 console.log("this is master branch")
-console.log("commiting in master")console.log("hello my erstand git")
+
 console.log("this is master branch")
 console.log("commiting in master")console.log("hello my name is sai and trying to understand git")
 console.log("this is master branch")
