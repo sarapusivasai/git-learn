@@ -5,7 +5,7 @@ const hello = ()=>{
     return x*x;
 }
 console.log("commivting in master")
-console.log("fsdsv my name is sai and trying to understand git")
+console.log("fsdsv my name is sai and vasdfsdftrying to understand git")
 const hello = ()=>{
     let x = 10;
     return x*x;
