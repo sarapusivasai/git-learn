@@ -1,11 +1,11 @@
 console.log("hello my name isg to understand git")
-console.log("this is masd dfbdfter branch")
+console.log("this is masgsfd dfbdfter branch")
 const hello = ()=>{
     let x = 10;
     return x*x;
 }
-console.log("commiting in master")
-console.log("hellosff my name is sai and trying to understand git")
+console.log("commivting in master")
+console.log("fsdsv my name is sai and trying to understand git")
 const hello = ()=>{
     let x = 10;
     return x*x;
@@ -13,7 +13,7 @@ const hello = ()=>{
 console.log("this  branch")
 console.log("commiting in master")
 console.log("hello my name is saisdf and trying to understand git")
-console.log("this isfsdfs master branch")
+console.log("this isfsdfssfsf master branch")
 const hello = ()=>{
     let x = 10;
     return x*x;
