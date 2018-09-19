@@ -22,6 +22,11 @@ const hello = ()=>{
     let x = 10;
     return x*x;
 }
+
+console.log("hello my name is sai and trying to understand git")
+console.log("this is master branch")
+console.log("this is master branch")
+console.log("commiting in master")
 console.log("commivting in master")
 console.log("fsdsv my name is sai and vasdfsdftrying to understand git")
 const hello = ()=>{
@@ -54,3 +59,7 @@ const hello = ()=>{
 }
 console.log("this is master branch")
 console.log("commi");
+console.log("hello my name is sai and trying to understand git")
+console.log("this is master branch")
+console.log("this is master branch")
+console.log("commiting in master")
