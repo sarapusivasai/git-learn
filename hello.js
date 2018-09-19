@@ -1,5 +1,5 @@
 console.log("hello my name isg to understand git")
-console.log("this is masd dfbdfter branch")
+console.log("this is master branch")
 const hello = ()=>{
     let x = 10;
     return x*x;
