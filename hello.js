@@ -1,4 +1,4 @@
-console.log("hello my name isg to understand git")
+console.log("shiva sai to understand git")
 console.log("this is masgsfd dfbdfter branch")
 const hello = ()=>{
     let x = 10;
