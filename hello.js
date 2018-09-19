@@ -30,20 +30,18 @@ const hello = ()=>{
 }
 console.log("this  branch")
 console.log("commiting in master")
-<<<<<<< HEAD
 console.log("hello my name is saisdf and trying to understand git")
 console.log("this isfsdfssfsf master branch")
 const hello = ()=>{
-=======
 console.log("hello my name is sai and trying to understand git")
 console.log("this is master branch")
 const mom = ()=>{
->>>>>>> master
     let x = 10;
     return x+50;
 }
 console.log("this is master branch")
-console.log("commiting in master")console.log("hello my name is sai and trying to understand git")
+console.log("commiting in master")
+console.log("hello my name is sai and trying to understand git")
 console.log("this is master branch")
 console.log("commiting in master")
 console.log("hello my namederstand git")
@@ -55,4 +53,4 @@ const hello = ()=>{
     return x*x;
 }
 console.log("this is master branch")
-console.log("commi")
+console.log("commi");
